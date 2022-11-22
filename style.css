@@ -165,7 +165,7 @@ h9{
 
 section{
   width:100%;
-  min-height:auto
+  min-height:auto;
   float:left;
   position:relative
 }
